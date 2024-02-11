@@ -1,0 +1,13 @@
+! Title: cleancord
+discord.com##button.grow__4c8a4.fullWidth__7c3e8.sizeSmall__71a98.colorBrand_b2253e.lookFilled__19298.button_afdfd9.buttonColor_a6eb73.button__66e8c:nth-of-type(3)
+discord.com##.actionButtons_b58cbb > div > .grow__4c8a4.fullWidth__7c3e8.sizeSmall__71a98.colorBrand_b2253e.lookFilled__19298.button_afdfd9.buttonColor_a6eb73.button__66e8c
+discord.com##.grow__4c8a4.colorBrand_b2253e.lookBlank__7ca0a.button_afdfd9.actionBarButton__49156 > .lineHeightReset_d85897.contents_fb6220 > .controlIcon__25700
+discord.com##.grow__4c8a4.colorBrand_b2253e.lookBlank__7ca0a.button_afdfd9.actionBarButton__49156
+discord.com##.scrollerBase_dc3aa9.none__51a8f.scroller__3d071 > div.listItem_fa7b36 > .listItemWrapper__1f93b > .wrapper__3af0b > .svg_ad7356 > foreignObject > .circleIconButton_d8df29
+discord.com##.scrollerBase_dc3aa9.none__51a8f.scroller__3d071 > div.listItem_fa7b36 > .listItemWrapper__1f93b > .wrapper__3af0b > .svg_ad7356 > foreignObject
+discord.com##.scrollerBase_dc3aa9.none__51a8f.scroller__3d071 > div.listItem_fa7b36 > .listItemWrapper__1f93b > .wrapper__3af0b > .svg_ad7356
+discord.com##.scrollerBase_dc3aa9.none__51a8f.scroller__3d071 > div.listItem_fa7b36 > .listItemWrapper__1f93b > .wrapper__3af0b
+discord.com##li.container__8759a.channel_c21703:nth-of-type(2)
+discord.com##li.container__8759a.channel_c21703:nth-of-type(3)
+discord.com##.buttons_ce5b56 > .grow__4c8a4.colorBrand_b2253e.lookBlank__7ca0a.button_afdfd9 > .button__55e53.button_f0455c.contents_fb6220 > .buttonWrapper__69593 > svg
+discord.com##div.listItem_fa7b36:nth-of-type(7)
