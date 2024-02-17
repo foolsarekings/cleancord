@@ -1,5 +1,5 @@
 ! Title: cleancord
-
+########################################################
 discord.com##button.grow__4c8a4.fullWidth__7c3e8.sizeSmall__71a98.colorBrand_b2253e.lookFilled__19298.button_afdfd9.buttonColor_a6eb73.button__66e8c:nth-of-type(3)
 discord.com##.actionButtons_b58cbb > div > .grow__4c8a4.fullWidth__7c3e8.sizeSmall__71a98.colorBrand_b2253e.lookFilled__19298.button_afdfd9.buttonColor_a6eb73.button__66e8c
 discord.com##.grow__4c8a4.colorBrand_b2253e.lookBlank__7ca0a.button_afdfd9.actionBarButton__49156 > .lineHeightReset_d85897.contents_fb6220 > .controlIcon__25700
